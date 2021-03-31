@@ -1,5 +1,5 @@
 # Readme
-These text files contain miscellaneous weapon rolls to be used in Destiny 2 Item Manager's wish list feature. I do not actively update these, so there are quite a few missing virtual boomsticks missing. They are also highly biased for my tastes.
+These text files contain miscellaneous weapon rolls to be used in Destiny 2 Item Manager's wish list feature. I do not actively update these, so there are quite a few virtual boomsticks missing. They are also highly biased for my tastes.
 
 The files are sorted into files by season as sunsetting was still a thing when I began making these, but as sunsetting has been sunset I'd imagine I will be making one absolute unit of a file at some point.
 
